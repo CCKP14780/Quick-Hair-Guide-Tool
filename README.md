@@ -8,7 +8,9 @@ TO INSTALL THE TOOL:
 2. Open Maya and copy-paste this code snipped into the script editor:
 
 import importlib
+
 from quickHairGuideGen import quickHairGuide
+
 importlib.reload(quickHairGuide)
 
 3. Run the script, or, add the script to Maya shelf by going to script editor and press: File> Save script to Shelf.
